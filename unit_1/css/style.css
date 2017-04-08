@@ -1,4 +1,9 @@
-body {background-color: #1e302d;
+h1, h3 {
+	font-family: Arial, sans-serif;
 }
-h1,p {color: #c45537;
+h3 {
+	font-size: 24px;
+}
+p{
+	font-family: "Courier New", monospace;
 }
