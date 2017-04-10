@@ -10,6 +10,7 @@ h1, h3, p, ul ,li {
 }
 h3 {
 	font-size: 36px;
+	text-decoration: italic;
 }
 h1 {
 	font-size: 72px;
