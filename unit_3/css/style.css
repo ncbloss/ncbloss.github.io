@@ -5,7 +5,7 @@
 	text-transform: uppercase;
 	color: white;
 }
-h1, h3, p {
+h1, h3, p, ul ,li {
 	color: white;
 }
 h3 {
@@ -14,9 +14,6 @@ h3 {
 p{
 	font-family: "Open Sans", monospace;
 	color: white;
-	ul{
-		color: white;
-	}
 }
 	body {
 	background-color: #993300;
