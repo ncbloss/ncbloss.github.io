@@ -18,16 +18,16 @@ h1, h3 {
 
 h2 {
 	font-family: 'Abel';
-	font-size: 28px;
+	font-size: 36px;
 	line-height: .5em;
 	margin: 2em;
 	color: #0cf4e9
 }
 h3 {
-	font-size: 36px;
+	font-size: 28px;
 	font-style: italic;
 	font-family: 'Abel';
-	margin: 2em;
+	margin: 1em;
 	color: #0cf4e9
 }
 p {
