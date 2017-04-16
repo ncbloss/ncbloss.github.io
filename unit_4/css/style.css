@@ -22,6 +22,7 @@ h3 {
 h2 {
 	font-family: 'Abel';
 	font-size: 28px;
+	line-height: .2em;
 	margin: 2em;
 	color: #0cf4e9
 }
