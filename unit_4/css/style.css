@@ -13,7 +13,7 @@ h1, h3 {
 h3 {
 	font-weight: 500;
 	font-family: 'Abel';
-	font-size: 24px;
+	font-size: 28px;
 	line-height: .2em;
 	margin: 2em;
 	color: #0cf4e9
@@ -21,8 +21,8 @@ h3 {
 
 h2 {
 	font-family: 'Abel';
-	font-size: 36px;
-	line-height: 1em;
+	font-size: 28px;
+	line-height: .2em;
 	margin: 2em;
 	color: #0cf4e9
 }
