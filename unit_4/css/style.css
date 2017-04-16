@@ -20,6 +20,10 @@ h3 {
 h1 {
 	font-size: 72px;
 }
+h2 {
+	font-family: 'Allerta+Stencil'
+	font-size: 24px;
+}
 p {
 	font-family: 'Philosopher';
 	font-size: 24px;
