@@ -11,17 +11,16 @@ h1, h3 {
 	font-weight: 500;
 	text-transform: uppercase;
 	font-family: 'Macondo';
+	font-size: 85px;
+	margin: .5em;
+	color: #f9cf67
 }
 h3 {
 	font-size: 36px;
 	font-style: italic;
 	font-family: 'Abel';
 }
-h1 {
-	font-size: 85px;
-	margin: .5em;
-	color: #f9cf67
-}
+
 h2 {
 	font-family: 'Abel';
 	font-size: 28px;
