@@ -1,34 +1,29 @@
 @import url('https://fonts.googleapis.com/css?family=Abel|Macondo|Monoton|Philosopher:700');
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
 	background-color: #993300;
-	
+	font-family: 'Abel',sans-serif;
+	font-size:16px;
 }
-h1, h3 {
+.logo {
 	font-weight: 500;
-	font-family: 'Macondo';
+	font-family: 'Macondo',cursive;
 	font-size: 85px;
 	margin: .5em;
-	color: #f9cf67
+	color: #f9cf67;
 }
-h3 {
+h1 {
 	font-weight: 500;
-	font-family: 'Abel';
 	font-size: 28px;
-	line-height: .2em;
-	margin: 2em;
-	color: #0cf4e9
+	color: #0cf4e9;
+}
+h1 span {
+	font-size:1.5em;
 }
 p {
-	font-family: 'Abel';
-	font-size: 24px;
-	line-height: 1.5em;
-	margin: 2em;
-	color: #94f980
+	color: #94f980;
 }
 ul {
-font-family: 'Monoton';
-	font-size: 28px;
-	line-height: 2em;
-	margin: 3em;
-	color: #0cf4e9
+	color: #0cf4e9;
+	font-family: 'Monoton', cursive;
 }
