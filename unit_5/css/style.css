@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Macondo|Monoton|Philosopher:700');
+* {margin:0;padding:0;box-sizing:border-box;}
+body {
+	background-color: #993300;
+	font-family: 'Abel',sans-serif;
+	font-size:16px;
+}
+.logo {
+	font-weight: 500;
+	font-family: 'Macondo',cursive;
+	font-size: 85px;
+	margin: .5em;
+	color: #f9cf67;
+}
+h1 {
+	font-weight: 500;
+	font-size: 28px;
+	color: #0cf4e9;
+}
+h1 span {
+	font-size:1.5em;
+}
+p {
+	color: #94f980;
+}
+ul {
+	color: #0cf4e9;
+	font-family: 'Monoton', cursive;
+}
