@@ -20,6 +20,10 @@ h1 {
 h1 span {
 	font-size:1.5em;
 }
+span {
+	color: white;
+	font-size: 36px;
+}
 p {
 	color: #94f980;
 }
