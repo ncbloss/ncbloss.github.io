@@ -38,6 +38,9 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 }
+li {
+	display: inline;
+}
 article {
 	background-color: #e89c6c;
 	border: 1px black solid;
@@ -53,3 +56,4 @@ div/section {
 	border: 1px black solid;
 	padding: 1px;
 }
+
