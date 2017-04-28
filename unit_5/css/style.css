@@ -12,6 +12,9 @@ body {
 	margin: .5em;
 	color: #f9cf67;
 }
+header .logo {
+	font-size:20px;
+}
 h1 {
 	font-weight: 500;
 	font-size: 28px;
@@ -31,34 +34,14 @@ ul {
 	color: #0cf4e9;
 	font-family: 'Monoton', cursive;
 }
-
-header {
-	background-color: #ffed74;
-	border: 1px black solid;
-	padding: 20px;
-}
-nav {
-	background-color: #e8c66a;
-	border: 1px black solid;
-	padding: 20px;
-}
-article {
+.description {
 	background-color: #e89c6c;
 	border: 1px black solid;
 	padding: 20px;
+	margin: 1em 0;
 }
-footer {
-	background-color: #ff957e;
-	border: 1px black solid;
-	padding: 20px;
-}
-div/section {
-	background-color: #ffe2b8;
-	border: 1px black solid;
-	padding: 1px;
-}
-#wrapper {
-	width: 960px;
+.wrapper {
+	width: 1200px;
 	margin: 0 auto;
 }
 
