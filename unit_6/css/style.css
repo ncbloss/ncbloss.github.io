@@ -26,6 +26,15 @@ a { background-color: #ff9700;
 	padding: 25px;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
 a:hover {
 	background-color: #aaaaaa;
 }
