@@ -26,6 +26,10 @@ a { background-color: #ff9700;
 	width: 200px;
 }
 
+a:hover {
+	background-color: #aaaaaa;
+}
+
 header .logo {
 	font-size:20px;
 }
