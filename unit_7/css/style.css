@@ -81,7 +81,7 @@ ul {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 46%;
+	width: 48%;
 }
 
 #right {
@@ -89,7 +89,7 @@ ul {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 46%;
+	width: 48%;
 }
 
 .clearfix:after {
