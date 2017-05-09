@@ -43,11 +43,11 @@ header .logo {
 }
 h1 {
 	font-weight: 500;
-	font-size: 28px;
+	font-size: 21px;
 	color: #0cf4e9;
 }
 h1 span {
-	font-size:1.7em;
+	font-size:1.5em;
 }
 span {
 	color: white;
