@@ -77,7 +77,7 @@ ul {
 }
 
 #left {
-	background-color: #993300;
+	background-color: #00ffff;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -85,7 +85,7 @@ ul {
 }
 
 #right {
-	background-color: #993300;
+	background-color: #00ffff;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
