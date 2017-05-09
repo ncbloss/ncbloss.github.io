@@ -78,19 +78,19 @@ ul {
 }
 
 #left {
-	background-color: #e582a2;
+	background-color: #00ffff;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 46%;
 }
 
 #right {
-	background-color: #e55b88;
+	background-color: #00ffff;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 46%;
 }
 
 .clearfix:after {
