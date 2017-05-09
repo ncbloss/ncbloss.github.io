@@ -78,7 +78,6 @@ ul {
 
 #left {
 	background-color: #993300;
-	border: 1px black solid;
 	padding: 20px;
 	float: left;
 	width: 49%;
@@ -86,7 +85,6 @@ ul {
 
 #right {
 	background-color: #993300;
-	border: 1px black solid;
 	padding: 20px;
 	float: right;
 	width: 49%;
