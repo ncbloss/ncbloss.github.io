@@ -8,7 +8,7 @@ body {
 .logo {
 	font-weight: 500;
 	font-family: 'Macondo',cursive;
-	font-size: 6em;
+	font-size: 100px;
 	margin: .5em;
 	color: #f7ed38;
 }
@@ -66,29 +66,29 @@ ul {
 }
 .description {
 	background-color: #4f2546;
-	padding: 20px;
+	padding: 10%;
 	margin: 1em 0;
 }
 .wrapper {
-	width: 1200px;
+	width: 100%;
 	margin: 0 auto;
 }
 
 #two_column {
 	background-color: #4f2546;
-	padding: 20px;
+	padding: 10%;
 }
 
 #left {
 	background-color: #4f2546;
-	padding: 20px;
+	padding: 10%;
 	float: left;
 	width: 49%;
 }
 
 #right {
 	background-color: #4f2546;
-	padding: 20px;
+	padding: 10%;
 	float: right;
 	width: 49%;
 }
