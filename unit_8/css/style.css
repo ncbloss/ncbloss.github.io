@@ -100,10 +100,9 @@ ul {
 	clear: both;
 	height: 0;
 }
-#one_column {
-	text-align: center;
-	padding: 5em
-	clear: both;
+.description2 {
+	padding: 5%;
+	margin: 0 auto;
 }
 footer {
 	text-align: center;
