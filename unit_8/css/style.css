@@ -101,9 +101,9 @@ ul {
 	height: 0;
 }
 #one_column {
-	padding: 5%;
-	float: center;
-	width: 80%;
+	text-align: center;
+	padding: 5em
+	clear: both;
 }
 footer {
 	text-align: center;
