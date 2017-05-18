@@ -78,7 +78,6 @@ ul {
 	background-color: #4f2546;
 	padding: 1%;
 }
-
 #left {
 	background-color: #4f2546;
 	padding: 2%;
@@ -100,6 +99,11 @@ ul {
 	content: " ";
 	clear: both;
 	height: 0;
+}
+#one_column {
+	padding: 5%;
+	float: none;
+	width: 80%;
 }
 footer {
 	text-align: center;
