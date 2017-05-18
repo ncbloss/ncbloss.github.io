@@ -102,7 +102,7 @@ ul {
 }
 #one_column {
 	padding: 5%;
-	float: none;
+	float: center;
 	width: 80%;
 }
 footer {
