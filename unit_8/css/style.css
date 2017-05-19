@@ -120,8 +120,10 @@ footer {
 @media only screen and (max-width: 800px) {
   nav {
     float: none;
-    margin: 0 1.6em .75em 0;
-
+  	}
+  nav a {
+    	margin: 0 1.6em .75em 0;
+    	
  	 }
   }
   @media only screen and (max-width: 480px) {
