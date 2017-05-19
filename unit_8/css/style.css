@@ -9,7 +9,7 @@ body {
 	font-weight: 400;
 	font-family: 'Macondo',cursive;
 	font-size: 100px;
-	margin: .2em;
+	margin: .5em;
 	color: #f7ed38;
 }
 
@@ -67,7 +67,7 @@ ul {
 }
 img {
 	display: center;
-	padding: 1.5em;
+	padding: 3.5em;
 }
 .description {
 	background-color: #4f2546;
