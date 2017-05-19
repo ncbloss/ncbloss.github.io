@@ -70,7 +70,7 @@ img {
 	padding: .5em;
 }
 #intro {
-	padding: .5em;
+	display: center;
 }
 .description {
 	background-color: #4f2546;
