@@ -69,6 +69,9 @@ img {
 	display: center;
 	padding: .5em;
 }
+#intro {
+	padding: 2em;
+}
 .description {
 	background-color: #4f2546;
 	padding: 5%;
@@ -123,7 +126,7 @@ footer {
   	}
   nav a {
     	margin: 0 1.6em .75em 0;
-    	
+
  	 }
   }
   @media only screen and (max-width: 480px) {
