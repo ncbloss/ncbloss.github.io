@@ -123,16 +123,17 @@ footer {
   	}
   nav a {
     	margin: 0 1.6em .75em 0;
+    	 width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+    height: 2em;
+    line-height: 2em;
  	 }
   }
   @media only screen and (max-width: 480px) {
   	nav {
   		display: block;
   		text-align: cemter;
-  		 width: 80%;
-    outline-width: .5em;
-    padding: .5em;
-    height: 2em;
-    line-height: 2em;
+
   	}
   }
