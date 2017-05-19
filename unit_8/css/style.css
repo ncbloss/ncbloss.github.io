@@ -64,6 +64,10 @@ ul {
 	color: #0cf4e9;
 	font-family: 'Monoton', cursive;
 }
+img {
+	display: block;
+	margin: 2em;
+}
 .description {
 	background-color: #4f2546;
 	padding: 5%;
