@@ -65,8 +65,8 @@ ul {
 	font-family: 'Monoton', cursive;
 }
 img {
-	display: block;
-	margin: 2em;
+	display: center;
+	margin: 1.5em;
 }
 .description {
 	background-color: #4f2546;
