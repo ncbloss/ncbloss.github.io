@@ -64,7 +64,8 @@ p {
 ul {
 	color: #0cf4e9;
 	font-family: 'Monoton', cursive;
-	padding: 1.5em;
+	margin-left: 1em;
+	padding: .5em;
 }
 img {
 	display: center;
